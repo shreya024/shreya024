@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shreya024
 - 👀 I’m interested in coding and web development
-- 🌱 I’m currently learning javascript gaming and React
+- 🌱 I’m currently learning Machine Learning and Node
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :email at sgshreya024@gmail.com
 
