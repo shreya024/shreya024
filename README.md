@@ -3,6 +3,8 @@
 - 🌱 I’m currently learning Machine Learning and Android Development
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me :email at sgshreya024@gmail.com
+---
+![Shreya's GitHub stats](https://github-readme-stats.vercel.app/api?username=shreya024&show_icons=true&theme=radical)
 
 <!---
 shreya024/shreya024 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
