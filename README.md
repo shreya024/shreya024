@@ -22,7 +22,9 @@
 
 
 ## 🌐Socials
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gittershreya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sgshreya024) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShreyaG35957150) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/gittershreya) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sgshreya024) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/ShreyaG35957150) [![LeetCode](https://img.shields.io/badge/LeetCode-%231DA1F2.svg?logo=LeetCode&logoColor=white)](https://leetcode.com/sgshreya024/) [![Dribble](https://img.shields.io/badge/Dribble-%231DA1F2.svg?logo=Dribble&logoColor=white)](https://dribbble.com/sgshreya00024) 
+
+
   
  
  
